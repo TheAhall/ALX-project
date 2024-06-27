@@ -5,7 +5,7 @@ Overview
 #Project Report
 
 The project report can be found in the following link:
-  (https://docs.google.com/document/d/1b6O79LGJUzX7N8Ppc4ikCcuQfi3owUpHZghFYazCB4Y/edit?usp=sharing)
+    https://docs.google.com/document/d/1b6O79LGJUzX7N8Ppc4ikCcuQfi3owUpHZghFYazCB4Y/edit?usp=sharing
 # Examples of use
 
   - Download the apk file from the link
