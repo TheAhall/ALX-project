@@ -1,4 +1,4 @@
-## ALX-project-The Multy Game App-
+## ALX-project: The Multy Game App
 Overview
 
   This project focuses on developing an Android application using Python and the Kivy framework. The app, titled "Multi Game App," aims to offer multiple games within a single platform. Throughout the development process, I have faced and addressed various technical and non-technical challenges, which I have documented below.
